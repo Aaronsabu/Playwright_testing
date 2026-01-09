@@ -1,7 +1,7 @@
-import { LoginPage } from "./pageObject/LoginPage.js";
-import { ProdPage } from "./pageObject/prodPage.js";
-import { CartPage } from "./pageObject/CartPage.js";
-import { ThankyouPage } from "./pageObject/thankyouPage.js";
+import { LoginPage } from "./LoginPage.js";
+import { ProdPage } from "./prodPage.js";
+import { CartPage } from "./CartPage.js";
+import { ThankyouPage } from "./thankyouPage.js";
 
 export class ObjectManager {
     constructor(page) {
@@ -27,4 +27,5 @@ export class ObjectManager {
     getThankYouPage() {
         return this.thankPage;
     }
+
 }

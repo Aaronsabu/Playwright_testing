@@ -1,0 +1,17 @@
+[{
+    "uName": "standard_user",
+    "password": "secret_sauce",
+    "prodName": "Sauce Labs Backpack",
+    "firstName": "Aaron",
+    "lastName": "Joseph",
+    "thankyou": "Thank you for your order!"
+    },
+    {
+    "uName": "standard_user",
+    "password": "secret_sauce",
+    "prodName": "Sauce Labs Bike Light",
+    "firstName": "Roy",
+    "lastName": "Jo",
+    "thankyou": "Thank you for your order!"
+    }
+]
